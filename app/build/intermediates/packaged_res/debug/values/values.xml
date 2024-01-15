@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="gray">#ccc</color>
+    <color name="green">#7fff00</color>
+    <color name="hongnhat">#fff0f5</color>
+    <color name="white">#ffffff</color>
+    <color name="xanhnhat">#f0f8ff</color>
+    <string name="app_name">App_first</string>
+    <string name="gcm_defaultSenderId" translatable="false">396473398171</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFZBs09zwRPn3bkWYxzaOJvaO0U2js4Dk</string>
+    <string name="google_app_id" translatable="false">1:396473398171:android:fc5b703ee2ce5c6b78273e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFZBs09zwRPn3bkWYxzaOJvaO0U2js4Dk</string>
+    <string name="google_storage_bucket" translatable="false">login-3dba0.appspot.com</string>
+    <string name="hodem">Họ Đệm</string>
+    <string name="pass">Password</string>
+    <string name="project_id" translatable="false">login-3dba0</string>
+    <string name="ten">Tên</string>
+    <string name="user">Username</string>
+    <style name="Base.Theme.App_first" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.App_first" parent="Base.Theme.App_first"/>
+</resources>

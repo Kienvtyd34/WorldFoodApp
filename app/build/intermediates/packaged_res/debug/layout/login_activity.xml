@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hongnhat">
+
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="175dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="630dp"
+            android:text="Đăng Nhập"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/dk"
+            android:layout_width="200dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="700dp"
+            android:layout_marginLeft="-180dp"
+            android:text="Tạo Tài Khoản"
+            android:textSize="18dp"/>
+
+
+    <EditText
+            android:id="@+id/email"
+            android:layout_width="325dp"
+            android:layout_height="48dp"
+            android:padding="10dp"
+            android:layout_marginTop="500dp"
+            android:layout_marginLeft="-250dp"
+        android:background="@color/white"
+            android:hint="Username" />
+
+
+        <EditText
+            android:id="@+id/pass"
+            android:layout_width="325dp"
+            android:layout_height="48dp"
+            android:padding="10dp"
+            android:textSize="20dp"
+            android:layout_marginTop="550dp"
+            android:layout_marginLeft="-325dp"
+            android:background="@color/white"
+            android:hint="PassWord" />
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="341dp"
+            android:layout_height="420dp"
+            android:layout_marginLeft="-330dp"
+            android:layout_marginTop="90dp"
+            app:srcCompat="@drawable/screenshot_2024_01_11_202741" />
+</androidx.appcompat.widget.LinearLayoutCompat>

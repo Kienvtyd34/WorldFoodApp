@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\layout_signin_activity.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\layout\\signin_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.app_first.app-merged_res-36:/layout_home_activity.xml.flat",
+        "source": "com.example.app_first.app-main-38:/layout/home_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\drawable_screenshot_2024_01_11_202741.png.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\drawable\\screenshot_2024_01_11_202741.png"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\drawable_screenshot_2024_01_11_105612.png.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\drawable\\screenshot_2024_01_11_105612.png"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NGUYEN DUC KIEN\\.gradle\\daemon\\8.2\\com.example.app_first.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
